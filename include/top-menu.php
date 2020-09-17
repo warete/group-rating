@@ -8,7 +8,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="/" style="color: #e61414;">ИВТ-161</a>
+            <a class="navbar-brand" href="/" style="color: #e61414;"><?=$CONFIG["GROUP_NAME"]?></a>
         </div>
 
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
